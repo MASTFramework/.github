@@ -1,5 +1,3 @@
-![The Project's logo should appear here](profile/MASTF.svg)
-
 ## Welcome to the MAST-Framework GitHub organization!
 
 <a href="https://github.com/MASTFramework">
